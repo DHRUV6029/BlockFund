@@ -1,0 +1,2 @@
+1.Go to the project folder and open a command Prompt. 
+2.Run the command "npm run serve".(Without quotes)
