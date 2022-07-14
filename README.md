@@ -3,15 +3,15 @@ What is crowdfunding Crowdfunding is the use of small amounts of capital from a 
 
 Objective The Main objective of the project is to create a decentraliszed platform through which people can publish their ideas and investors can review and fund them. This model aims to remove all the inherent problems in the traditional crowdfunding applications.
 
-#Current problems in crowdfunding
+__Current problems in crowdfunding__
 
-Trust: When you are a brand with no prior record, you have to consider how you can generate enough brand credibility with investors. Without trust you might not generate enough interest in your campaign and fail to meet your targets.
+__Trust__: When you are a brand with no prior record, you have to consider how you can generate enough brand credibility with investors. Without trust you might not generate enough interest in your campaign and fail to meet your targets.
 
-Accounting, recordkeeping and managing compliance: There is a huge amount of uncertainly when it comes to the accounting rules for funds raised through crowdfunding.Should they be declared as an income or as capital? The answer will tend to be different depending on which expert you ask. For e.g. Also, states in the US will have their own rules on how this money should be taxed.
+__Accounting, recordkeeping and managing compliance__: There is a huge amount of uncertainly when it comes to the accounting rules for funds raised through crowdfunding.Should they be declared as an income or as capital? The answer will tend to be different depending on which expert you ask. For e.g. Also, states in the US will have their own rules on how this money should be taxed.
 
-3.Security gaps in present payment infrastructure: Some inherent payment bottleneck with present payment platforms like wePay, amazonPay, PayPal have caused the investors wary of investing in through crowdfunding platforms.
+__Security gaps in present payment infrastructure__: Some inherent payment bottleneck with present payment platforms like wePay, amazonPay, PayPal have caused the investors wary of investing in through crowdfunding platforms.
 
-#How do we aim to solve these problem 
+__How do we aim to solve these problem__
 
 1. Blockchain technology provides the underpinnings of popular cryptocurrencies like Bitcoin and Ether (the currency on the Ethereum network). The blockchain also provides a robust, decentralized way for information to be stored in immutable blocks — great for crowdfunding.
 
